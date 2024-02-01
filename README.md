@@ -1,5 +1,5 @@
 # Recycler
-Recycler is an AI model that selects what kind of trash an object is. It is a Garbage-Collection-Classifier\
+Recycler is an AI model that selects what kind of trash an object is. It is a Garbage-Collection-Classifier
 
 The AI was trained using Xception model. The wasn't much preprocessing of input image since the dataset was not extremely large.
 
